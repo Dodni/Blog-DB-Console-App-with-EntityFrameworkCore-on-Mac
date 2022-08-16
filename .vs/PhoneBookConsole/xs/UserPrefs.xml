@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{9AB34BC3-8275-4F84-8371-499B3FB1FD39}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PhoneBookConsole PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PhoneBookConsole/Program.cs">
+    <Files>
+      <File FileName="PhoneBookConsole/Program.cs" Line="14" Column="13" />
+      <File FileName="PhoneBookConsole/Models/Blog.cs" Line="27" Column="1" />
+      <File FileName="PhoneBookConsole/appsettings.json" Line="3" Column="99" />
+      <File FileName="PhoneBookConsole/Context/cnBlogging.cs" Line="19" Column="125" />
+      <File FileName="PhoneBookConsole/Models/Post.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PhoneBookConsole" expanded="True">
+            <Node name="PhoneBookConsole" expanded="True">
+              <Node name="Context" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
